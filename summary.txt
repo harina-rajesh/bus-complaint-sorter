@@ -1,0 +1,32 @@
+BUS COMPLAINT SORTER SUMMARY
+============================
+Classification Mode: OFFLINE KEYWORD RULES
+Total complaints: 22
+Successfully classified: 22
+Manual review: 0
+
+Complaints by category:
+crowding        3
+delay           3
+driver          5
+other           2
+route_request   4
+vehicle         5
+
+Urgent complaints: 7
+
+Complaints by route:
+Route 1 (Tambaram): 1
+Route 10 (AREA TO BE CONFIRMED): 1
+Route 2 (Velachery): 1
+Route 3 (Porur): 1
+Route 4 (AREA TO BE CONFIRMED): 1
+Route 5 (AREA TO BE CONFIRMED): 1
+Route 6 (AREA TO BE CONFIRMED): 1
+Route 7 (AREA TO BE CONFIRMED): 1
+Route 8 (AREA TO BE CONFIRMED): 1
+Route 9 (AREA TO BE CONFIRMED): 1
+
+Offline keyword rules were used.
+Safety-related complaints require human verification.
+The transport officer makes all final decisions.
